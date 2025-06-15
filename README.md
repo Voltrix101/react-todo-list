@@ -1,3 +1,61 @@
+# React Todo List Application
+
+A modern, feature-rich Todo List application built with React. This application allows users to manage their tasks with a clean and intuitive interface.
+
+## Features
+
+- Add, delete, and mark tasks as complete
+- Filter tasks by status (All, Active, Completed)
+- Sort tasks by date or alphabetically
+- Persistent storage using localStorage
+- Responsive and modern UI design
+- Input validation
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v14.0.0 or higher)
+- npm (v6.0.0 or higher)
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/react-todo-list.git
+cd react-todo-list
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Start the development server:
+```bash
+npm start
+```
+
+The application will open in your default browser at `http://localhost:3000`.
+
+## Usage
+
+- Add a new task by typing in the input field and clicking "Add Task" or pressing Enter
+- Mark a task as complete by clicking the checkbox
+- Delete a task using the delete button
+- Use the filter dropdown to show All/Active/Completed tasks
+- Use the sort dropdown to change the order of tasks
+
+## Technologies Used
+
+- React
+- CSS3
+- LocalStorage API
+
+## License
+
+This project is licensed under the MIT License.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
